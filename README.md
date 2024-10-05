@@ -1,8 +1,7 @@
 ## iACP-SEI
 
 In this study, we developed a new method called iACP-SEI for the identification of anticancer peptides based on the protein language model ESM2 and the stacked ensemble learning model.
-
-This repository contains the source code, the data and link of the pretrained embedding models accompanying the paper—iACP-SEI: An anticancer peptide identification method incorporating sequence evolutionary information.
+This repository contains the source code, the data and link of the pretrained embedding models.
 
 ## Installation instructions
 
