@@ -33,7 +33,7 @@ python iACP-SEI.py
 If the following output is displayed, the installation was successful.
 
 <p align="center">
-  <img src="./figures/initial-interface.png" alt="initial-interface" width="800">
+  <img src="./figures/initial-interface.PNG" alt="initial-interface" width="1000">
 </p>
 
 **Step 5: Input requirements**
