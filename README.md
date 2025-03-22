@@ -26,7 +26,7 @@ pip install -r requirements.txt
 **Step 4: Run the script**
 
 ```shell
-python iACP-SEI.py
+python iACP-SEI.py -h
 ```
 
 If the following output is displayed, the installation was successful.
