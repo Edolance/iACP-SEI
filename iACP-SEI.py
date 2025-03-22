@@ -227,6 +227,6 @@ if  __name__ == "__main__":
         outpd.columns=["seq","Pred_label(1 for Pos,0 for Neg)","Positive_Probability(/%)"]
         outpd.to_csv(args.out+".pred_results.csv")
     else:
-        print("Trainded model de not exist!")
+        print("Trainded model do not exist!")
        
     
